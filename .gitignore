@@ -1,0 +1,27 @@
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Recycle Bin and metadata
+$RECYCLE.BIN/
+*.bak
+*.tmp
+
+# System volume information
+System Volume Information/
+
+# Logs and diagnostics
+*.log
+*.dmp
+*.stackdump
+
+# VSCode and JetBrains IDEs
+.vscode/
+.idea/
+
+# Other
+*.swp
+*.swo
+*.swn
+.DS_Store
+ehthumbs.db
